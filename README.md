@@ -16,9 +16,6 @@
   
 </p>
 
-## 🔥 Languages
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shishirregmi&show_icons=true&locale=en&layout=compact" alt="zadavshailesh" /></p>
 
 ## 🔥 Github Stats
 
